@@ -14,5 +14,17 @@
         "description": "tv 3"
       }
     ]
+  },
+    "type_account": {
+    "listItems": [
+      {
+        "id": 1,
+        "description": "Caja de Ahorro"
+      },
+      {
+        "id": 2,
+        "description": "Cuenta Corriente"
+      }
+    ]
   }
 }
